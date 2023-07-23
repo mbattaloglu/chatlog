@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335535361469",
+    "project_id": "tercihdanismani-8a9ca",
+    "storage_bucket": "tercihdanismani-8a9ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335535361469:android:db404aa8c1b74814dad6d4",
+        "android_client_info": {
+          "package_name": "com.tercihdanismani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335535361469-khhre4h6n9br4r092g9fnn0t6b5i0hmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKlaIFhkwYsOJWAw6EeL1S1KGPgPyUr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335535361469-khhre4h6n9br4r092g9fnn0t6b5i0hmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

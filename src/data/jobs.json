@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 0,
+        "jobTitle" : "Bilgisayar Mühendisliği",
+        "imageUrl" : "./img/computer.png"
+    },
+    {
+        "id" : 1,
+        "jobTitle" : "İnşaat Mühendisliği",
+        "imageUrl" : "./img/construction.png"
+    },
+    {
+        "id" : 2,
+        "jobTitle" : "Elektrik ve Elektronik Mühendisliği",
+        "imageUrl" : "./img/electric.png"
+    }
+]
